@@ -5,14 +5,14 @@
 ## Installation
 
 ```sh
-$ npm install --save server
+$ npm install
 ```
 
 ## Usage
 
 ```js
-var server = require('server');
-server();
+npm run dev --- for starting dev. server.
+npm run prod -- for starting prod. server.
 ```
 
 ## License
